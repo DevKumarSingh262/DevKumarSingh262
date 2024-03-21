@@ -1,9 +1,10 @@
-👦🏻#About Me:-
+👦🏻 #About Me:-
  -👋 Hi there! I'm Dev Kumar Singh Welcome to my GitHub profile! I'm a passionate computer science student with a keen interest in coding, problem-solving, and exploring new technologies.Here you'll find a variety 
     of projects I've been working on, ranging from small coding exercises to more ambitious endeavors.
  - 👀 I’m interested in working with large datasets, extracting insights, and building predictive models. This includes skills in data analysis, statistics, and visualization.
  - 🌱 Always eager to learn and explore new concepts
-🛠️#Skills:-
+   
+🛠️ #Skills:-
  - 🧑🏻‍💻 Programming Languages: Java, Python
  - 🧑🏻‍💻 Web Development: HTML, CSS, JavaScript
  - 🧑🏻‍💻 Database Management: MySQL, MongoDB
