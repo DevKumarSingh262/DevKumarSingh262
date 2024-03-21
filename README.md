@@ -9,7 +9,7 @@
  - 🧑🏻‍💻 Database Management: MySQL, MongoDB
  - 🧑🏻‍💻 Machine Learning: TensorFlow, scikit-learn
  - 🧑🏻‍💻 Version Control: Git, GitHub
- -
+   
 📫 #How to reach me
  - LinkedIn: [Dev Kumar Singh](https://www.linkedin.com/in/dev-kumar-singh-812b40252/)
  - Email: dks312603@gmail.com
