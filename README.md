@@ -16,7 +16,7 @@
  - Email: dks312603@gmail.com
 
 ⚡#Fun fact
- - I enjoy playing outdoor games like Cricket,Basketball,Football and I also like experimenting with new recipes in the kitchenc. It's a great way to unwind and get inspired!
+ - I enjoy playing outdoor games like Cricket,Basketball,Football and I also like experimenting with new recipes in the kitchen. It's a great way to unwind and get inspired!
 
 🚀 #Let's connect and collaborate!
  - I'm always open to new opportunities and collaborations. Feel free to reach out if you want to discuss tech, share ideas, or work on projects together.
