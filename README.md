@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Kumar Singh</h1>
-<h3 align="center">Programmer | Data Science Enthusiast | FPassionate Problem Solver</h3>
+<h3 align="center">Programmer | Data Science Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Final+year+B.Tech+Student;Data+Science+Specialization;Tech+Explorer+🚀;Always+learning+new+things&center=true&width=500&height=45">
