@@ -2,7 +2,7 @@
 <h3 align="center">Programmer | Data Science Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Final+year+B.Tech+Student;Data+Science+Specialization;Tech+Explorer+🚀;Always+learning+new+things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+never+exhausts+the+mind+—+it+fuels+innovation;Tech+Explorer+🚀;Always+learning+new+things&center=true&width=500&height=45">
 </p>
 
 ---
