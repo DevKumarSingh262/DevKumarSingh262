@@ -45,20 +45,17 @@
 </p>
 
 ---
-<!--
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-inky-gamma.vercel.app/api?username=DevKumarSingh262&show_icons=true&theme=radical&cache_seconds=7200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevKumarSingh262&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-inky-gamma.vercel.app/api/top-langs/?username=DevKumarSingh262&layout=compact&theme=radical&cache_seconds=7200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKumarSingh262&layout=compact&theme=radical" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevKumarSingh262&theme=radical" alt="GitHub Streak" />
-</p> -->
 
 ---
 
